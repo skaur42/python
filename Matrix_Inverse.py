@@ -1,5 +1,5 @@
 """"
-Exercise 2. Write a program that asks a user to enter six real numbers:
+This program asks user to enter six real numbers:
 a, b, c, d, e, and f. check whether the matrix is invertible. 
 matrix: [a, 0, 0][b, c, 0][d, e, f]
 matrix is invertible when determinant != 0
